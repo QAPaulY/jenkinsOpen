@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Visual Studio 2019
 MinimumVisualStudioVersion = 16.0.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMSTestProject", "MyMSTestProjectMyMSTestProject.csproj", "{C4B4A7C8-1B7D-4A6C-BCC5-8C7D68C2E5D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMSTestProject", "solution/MyMSTestProject.csproj", "{C4B4A7C8-1B7D-4A6C-BCC5-8C7D68C2E5D2}"
 EndProject
 Global
     GlobalSection(SolutionConfigurationPlatforms) = preSolution
